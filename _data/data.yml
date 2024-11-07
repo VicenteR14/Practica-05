@@ -17,7 +17,7 @@ sidebar:
     phone: 600 75 35 79
     timezone: Europe/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: https://vicenter14.github.io/Practica-05/ # Include the full website URL, including "http://" or "https://".
     linkedin: 
     xing: 
     github: VicenteR14
@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: assets/archivos# Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Idiomas
